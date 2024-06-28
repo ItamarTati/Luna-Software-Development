@@ -126,7 +126,7 @@ h6 {
 }
 .banner-text {
 	padding-right:80px;
-	margin:50px 0px 0px;
+	margin: 50px 0px 20px;
 }
 .banner-text p {
 	margin:40px 0px;
@@ -144,6 +144,20 @@ h6 {
 .banner-text ul li a img {
 	width: 150px;
 	border-radius: 7px;
+}
+
+.white-btn {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding: 10px 20px;
+	background-color: white;
+	color: purple;
+	text-decoration: none;
+	border-radius: 5px;
+}
+.white-btn:hover {
+	background-color: lightgray;
 }
 .prelative {
 	position:relative
